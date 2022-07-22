@@ -10,7 +10,7 @@ import 'package:gla_apk_clone/Screens/heirarchy.dart';
 import 'package:gla_apk_clone/Screens/library.dart';
 import 'package:gla_apk_clone/Screens/result.dart';
 import 'package:gla_apk_clone/Screens/timeTable.dart';
-import 'package:gla_apk_clone/splash.dart';
+import 'package:gla_apk_clone/Splash/splash.dart';
 
 void main() {
   runApp(MaterialApp(

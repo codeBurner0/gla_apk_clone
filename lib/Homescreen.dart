@@ -12,8 +12,8 @@ import 'package:gla_apk_clone/Screens/heirarchy.dart';
 import 'package:gla_apk_clone/Screens/library.dart';
 import 'package:gla_apk_clone/Screens/result.dart';
 import 'package:gla_apk_clone/Screens/timeTable.dart';
-import 'package:gla_apk_clone/screen1.dart';
-import 'package:gla_apk_clone/splash1.dart';
+import 'package:gla_apk_clone/Demo.dart';
+import 'package:gla_apk_clone/Splash/splash1.dart';
 import 'package:marquee/marquee.dart';
 
 class HomeScreen extends StatefulWidget {
